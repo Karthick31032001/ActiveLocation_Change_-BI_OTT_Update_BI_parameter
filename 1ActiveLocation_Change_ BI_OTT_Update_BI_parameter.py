@@ -1,7 +1,6 @@
 from playwright.sync_api import Playwright, sync_playwright, expect
 from pathlib import Path
 import random
-import re
 import json
 
 customer_name = "Morris152430"
